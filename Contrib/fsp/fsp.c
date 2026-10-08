@@ -21,7 +21,7 @@
 #include <stdio.h>
 #include <io.h>
 #include <sys\stat.h>
-#include "..\ExDll\exdll.h"
+#include "exdll.h"
 
 #define FS "/FS"
 #define FN "/FN"
